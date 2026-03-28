@@ -5,6 +5,7 @@ You’ll build a system that:
 
 Scrapes data from websites (even dynamic ones)
 Runs automatically at scheduled times
+
 Stores data in a database
 Exports data to CSV when needed
 🔹 2. Tech Stack Explained
